@@ -17,3 +17,5 @@ map <- leaflet() %>%
   addPolygons(data=nta, color="purple") %>%
   addPolygons(data=puma)
 map
+
+http://www1.nyc.gov/assets/planning/download/zip/data-maps/open-data/nyc_facilities2015_shp.zip
