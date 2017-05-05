@@ -1,5 +1,4 @@
-# landscapes
-
+# geospatial repository
 * experimenting with R + leaflet + shiny integration
 * reading JSON files from open data portals
 * US Census ACS data in R
